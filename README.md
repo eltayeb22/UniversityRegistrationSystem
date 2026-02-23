@@ -9,8 +9,8 @@ A simple Java application to manage students and course registrations.
 * **Organized Code:** Built using Object-Oriented Programming (OOP).
 
 ## Tech Stack
-* **Language:** Java ☕
-* **Build Tool:** Maven 📦
+* **Language:** Java 
+* **Build Tool:** Maven 
 
 ##  File Structure
 * `Student.java`: Handles student objects.
